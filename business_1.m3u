@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ClassCNBC.it" tvg-logo="https://i.imgur.com/3Ei5VHa.png" group-title="Business",Class CNBC (576p)
+https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBC2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC
+http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBC3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC
+https://v1.thetvapp.to/hls/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBC4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC
+https://tvpass.org/live/CNBC/hd
+#EXTINF:-1 tvg-id="CNBC5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC
+https://tx1.nexgen.bz/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="Business",CNBC Asia HD (720p) [Geo-blocked]
+https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
+#EXTINF:-1 tvg-id="CNBCBajar.in" tvg-logo="https://i.imgur.com/cORao6C.png" group-title="Business",CNBC Bajar (504p) [Geo-blocked]
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
