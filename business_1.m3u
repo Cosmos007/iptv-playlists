@@ -22,7 +22,7 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNOW from FOX (720p)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX1.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News", FOX1 (720p)
+#EXTINF:-1 tvg-id="FOX1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News", FOX1 (720p)
 https://ft.fbcdntv247.cfd/memfs/f03819b3-64bd-4730-ab94-2469c3d30d81_output_0.m3u8
-#EXTINF:-1 tvg-id="FOX1.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News", FOX2 (720p)
+#EXTINF:-1 tvg-id="FOX1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News", FOX2 (720p)
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
